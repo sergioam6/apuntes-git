@@ -2,3 +2,4 @@ Tema 1: Introduccion a Git
 Tema 2: Flujo de trabajo basico
 Tema 3: Gestion de ramas
 Tema 4: Repositorios remotos
+Tema 5: Conceptos avanzados
